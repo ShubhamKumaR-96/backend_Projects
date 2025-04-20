@@ -6,6 +6,8 @@ yarn-error.log
 # Environment variables
 .env
 
+src/config/config.json
+
 # Logs
 logs/
 *.log
