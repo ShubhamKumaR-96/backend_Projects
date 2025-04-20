@@ -10,3 +10,7 @@
   config/
   respository/
 -tests.
+
+
+# Flight Table
+- id - unique
